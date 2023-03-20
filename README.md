@@ -5,3 +5,9 @@ Objective:
 
 Data: 
     crypto_market_data.csv
+
+## Analysis Findings
+
+    -According to to the initial Elbow Curve, and confirmed with a PCA model-based one, the best value for k is 4.
+
+   -Using this value, clusters were predicted and plotted.
